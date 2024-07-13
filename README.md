@@ -1,2 +1,2 @@
 # lab-agile-planning
-This repository containes the lab for Agile planning
+This repository contains the lab for Agile planning
